@@ -1,0 +1,51 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title {
+    margin-left: -10px;
+    width: 110%;
+    height: 80px;
+    font-weight: bolder;
+    font-size: 23px;
+    color: white;
+    padding-left: 40px;
+    background-color: #010080;
+    margin-top: -50px;
+    padding-top: -1px;
+}
+
+.text {
+    padding-left: 25px;
+    font-size: 14pt;
+}
+
+.degree {
+    padding-left: 20px;
+}
+
+.carousel {
+    float: left;
+}
+
+.image {
+    float: left;
+    margin: 20px;
+}
+
+.minor {
+    clear:left;
+    margin-left: 20px;
+}
+
+a {
+    color: 	#84AEC9;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+footer {
+    color: gray;
+}
