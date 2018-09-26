@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+    <title>
+        Homework2
+    </title>
     <?php
         $features = array("eye","eye","lips","nose");
         $l_0 = range(0, 1);
@@ -13,7 +16,7 @@
         function displayFeature($feature, $version, $list) {
             $x = rand(20, 35);
             $y = rand(30, 70);
-            echo "<img class='feature' src='$feature/$version.png' style='bottom:$y%; right:$x%;'>";
+            echo "<img class='feature' src='$feature/$version.png' style='bottom:$y%; right:$x%;' alt='$feature'>";
             return array($x, $y);
         }
         
