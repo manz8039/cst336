@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <title>
-        Homework2
-    </title>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/style.css" type="text/css"/>
+        <title>
+            Homework2
+        </title>
+    </head>
     <?php
         $features = array("eye","eye","lips","nose");
         $l_0 = range(0, 1);
@@ -52,10 +56,6 @@
         }
         
     ?>
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="css/style.css" type="text/css"/>
-    </head>
     <body>
         <div id ="content">
             <h1 class="title">Picasso Art Generator</h1>
