@@ -1,0 +1,1496 @@
+[26-Sep-2018 05:18:27 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 05:18:27 UTC] PHP Stack trace:
+[26-Sep-2018 05:18:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:18:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 05:18:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 05:18:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 05:51:22 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:51:22 UTC] PHP Stack trace:
+[26-Sep-2018 05:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:51:22 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:51:22 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:51:22 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:51:22 UTC] PHP Stack trace:
+[26-Sep-2018 05:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:51:22 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:51:22 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:51:22 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:51:22 UTC] PHP Stack trace:
+[26-Sep-2018 05:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:51:22 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:51:22 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:51:56 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:51:56 UTC] PHP Stack trace:
+[26-Sep-2018 05:51:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:51:56 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:51:56 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:51:56 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:51:56 UTC] PHP Stack trace:
+[26-Sep-2018 05:51:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:51:56 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:51:56 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:51:56 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:51:56 UTC] PHP Stack trace:
+[26-Sep-2018 05:51:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:51:56 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:51:56 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:52:14 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:52:14 UTC] PHP Stack trace:
+[26-Sep-2018 05:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:52:14 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:52:14 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:52:14 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:52:14 UTC] PHP Stack trace:
+[26-Sep-2018 05:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:52:14 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:52:14 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 05:52:14 UTC] PHP Warning:  Missing argument 1 for displayRow(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 36 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 27
+[26-Sep-2018 05:52:14 UTC] PHP Stack trace:
+[26-Sep-2018 05:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 05:52:14 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:50
+[26-Sep-2018 05:52:14 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:36
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:00:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:00:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:00:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:00:27 UTC] PHP   3. displayRow() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:00:27 UTC] PHP   4. chooseFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:27
+[26-Sep-2018 06:00:27 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 2 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:30
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 3 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:30
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 2 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:30
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 3 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:30
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 2 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseLips() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 3 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseLips() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 2 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseNose() /home/ubuntu/workspace/cst336/homework/homework2/index.php:49
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:40
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:15:30 UTC] PHP Warning:  Missing argument 3 for displayFeature(), called in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21 and defined in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 06:15:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:15:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 06:15:30 UTC] PHP   3. chooseNose() /home/ubuntu/workspace/cst336/homework/homework2/index.php:49
+[26-Sep-2018 06:15:30 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:40
+[26-Sep-2018 06:15:30 UTC] PHP   5. displayFeature() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:43
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:29
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:43
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:29
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:29
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseEye() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:29
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseLips() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:33
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseLips() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:33
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseNose() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:37
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:18:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:18:02 UTC] PHP Stack trace:
+[26-Sep-2018 06:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:18:02 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:57
+[26-Sep-2018 06:18:02 UTC] PHP   3. chooseNose() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 06:18:02 UTC] PHP   4. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:37
+[26-Sep-2018 06:18:02 UTC] PHP   5. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:05 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:05 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:05 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:05 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:05 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:37 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:37 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:37 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:37 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:41:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:41:54 UTC] PHP Stack trace:
+[26-Sep-2018 06:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:41:54 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:41:54 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:41:54 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:42:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:42:30 UTC] PHP Stack trace:
+[26-Sep-2018 06:42:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:42:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:44
+[26-Sep-2018 06:42:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:42:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:03 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:03 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:03 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:03 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:03 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:03 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:03 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:03 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:03 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:03 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:03 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:03 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:03 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:03 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:03 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:03 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:03 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:03 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:03 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:03 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:03 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:03 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:03 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:03 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:03 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:07 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:07 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:07 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:07 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:07 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:07 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:07 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:07 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:07 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:07 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:07 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:07 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:07 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:07 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:07 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:07 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:07 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:07 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:07 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:07 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:07 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:07 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:07 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:07 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:07 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:07 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:07 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:07 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:46 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:46 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:44:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:44:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:46 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:44:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:44:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:44:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:44:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:44:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:44:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  range() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 5
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. range() /home/ubuntu/workspace/cst336/homework/homework2/index.php:5
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  range() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 5
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. range() /home/ubuntu/workspace/cst336/homework/homework2/index.php:5
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  range() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 5
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. range() /home/ubuntu/workspace/cst336/homework/homework2/index.php:5
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, boolean given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:29
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, boolean given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:29
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:27 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:46 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:46 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:46:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 17
+[26-Sep-2018 06:46:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:46 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:17
+[26-Sep-2018 06:46:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 18
+[26-Sep-2018 06:46:46 UTC] PHP Stack trace:
+[26-Sep-2018 06:46:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:46:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 06:46:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 06:46:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:18
+[26-Sep-2018 06:47:45 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:45 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:45 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:45 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:45 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:45 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:45 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:45 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:45 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:45 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:45 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:45 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:45 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:45 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:45 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:45 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:45 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:45 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:45 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:45 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:45 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:45 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:45 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:45 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:45 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:45 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:45 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:45 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:45 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:45 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:47 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:47 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:47 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:47 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:47 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:47 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:47 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:49 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:49 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:49 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:49 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:49 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:49 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:49 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:49 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:49 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:49 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:49 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:49 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:49 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:49 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:49 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:49 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:49 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:49 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:47:49 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:47:49 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:49 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:49 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:49 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:47:49 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:47:49 UTC] PHP Stack trace:
+[26-Sep-2018 06:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:47:49 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:47:49 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:47:49 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:12 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:12 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:12 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:12 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:12 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:12 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:12 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:12 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:12 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:12 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:12 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:12 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:12 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:12 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:12 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:12 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:12 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:12 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:12 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:12 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:12 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:12 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:12 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:12 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:12 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:12 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:12 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:12 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:12 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:12 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:16 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:16 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:16 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:16 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:16 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:16 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:16 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:16 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:16 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:16 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:16 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:16 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:16 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:16 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:16 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:16 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:16 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:16 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:16 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:16 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:16 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:16 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:16 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:16 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:16 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:16 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:16 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:58 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:58 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:58 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:58 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:58 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:58 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:48:58 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:58 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:48:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 06:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 06:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:48:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 06:48:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 06:48:58 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 06:54:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 06:54:01 UTC] PHP Stack trace:
+[26-Sep-2018 06:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 06:54:01 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 06:54:01 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 06:54:01 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:24 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:24 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:24 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:24 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:24 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:25 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:25 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:25 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:25 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:27 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:27 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:27 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:28 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:28 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:28 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:28 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:28 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:29 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:29 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:29 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:29 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:29 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:30 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:30 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:30 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:30 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:31
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 19
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:19
+[26-Sep-2018 15:24:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:24:31 UTC] PHP Stack trace:
+[26-Sep-2018 15:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:24:31 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:24:31 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:34
+[26-Sep-2018 15:24:31 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_search() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:27:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:27:42 UTC] PHP Stack trace:
+[26-Sep-2018 15:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:27:42 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:27:42 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:27:42 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 15:28:52 UTC] PHP   4. in_array() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 15:28:52 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:28:52 UTC] PHP   4. in_array() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:28:52 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:28:52 UTC] PHP   4. in_array() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:28:52 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 20
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:28:52 UTC] PHP   4. in_array() /home/ubuntu/workspace/cst336/homework/homework2/index.php:20
+[26-Sep-2018 15:28:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:28:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:28:52 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:48
+[26-Sep-2018 15:28:52 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:35
+[26-Sep-2018 15:28:52 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:42:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 21
+[26-Sep-2018 15:42:58 UTC] PHP Stack trace:
+[26-Sep-2018 15:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:42:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 15:42:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 15:42:58 UTC] PHP   4. in_array() /home/ubuntu/workspace/cst336/homework/homework2/index.php:21
+[26-Sep-2018 15:42:58 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 22
+[26-Sep-2018 15:42:58 UTC] PHP Stack trace:
+[26-Sep-2018 15:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:42:58 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:45
+[26-Sep-2018 15:42:58 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:32
+[26-Sep-2018 15:42:58 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:22
+[26-Sep-2018 15:46:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 9
+[26-Sep-2018 15:55:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:17 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:17 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:17 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:17 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:17 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:17 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:17 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:17 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:17 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:17 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:17 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:17 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:17 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:17 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:17 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:17 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:21 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:21 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:21 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:21 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:21 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:21 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:21 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:21 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:21 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:21 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:21 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:21 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:21 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:21 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:59
+[26-Sep-2018 15:55:21 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:46
+[26-Sep-2018 15:55:21 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:43 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:43 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:43 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:43 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:43 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:43 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:43 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:43 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:43 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:43 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:43 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:43 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:43 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:43 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:43 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:43 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:43 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:43 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:43 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:43 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:44 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:44 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:44 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:44 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:44 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:44 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:44 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:44 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:44 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:44 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:44 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:44 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:44 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:44 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:44 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:44 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:46 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:46 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:46 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:46 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:46 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:46 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:46 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:47 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:47 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:47 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[26-Sep-2018 15:55:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/homework/homework2/index.php on line 28
+[26-Sep-2018 15:55:47 UTC] PHP Stack trace:
+[26-Sep-2018 15:55:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/homework/homework2/index.php:0
+[26-Sep-2018 15:55:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
+[26-Sep-2018 15:55:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
+[26-Sep-2018 15:55:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
