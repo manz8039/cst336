@@ -10,3 +10,14 @@
 [10-Sep-2018 22:21:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/labs/lab2/inc/functions.php on line 45
 [10-Sep-2018 22:21:11 UTC] PHP Stack trace:
 [10-Sep-2018 22:21:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[01-Oct-2018 22:19:07 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 14
+[01-Oct-2018 22:19:07 UTC] PHP Stack trace:
+[01-Oct-2018 22:19:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[01-Oct-2018 22:19:07 UTC] PHP   2. reset() /home/ubuntu/workspace/cst336/labs/lab4/index.php:14
+[01-Oct-2018 22:19:59 UTC] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 13
+[01-Oct-2018 22:19:59 UTC] PHP Stack trace:
+[01-Oct-2018 22:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[01-Oct-2018 22:19:59 UTC] PHP   2. reset() /home/ubuntu/workspace/cst336/labs/lab4/index.php:13
+[01-Oct-2018 22:31:25 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 47
+[01-Oct-2018 22:31:25 UTC] PHP Stack trace:
+[01-Oct-2018 22:31:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
