@@ -21,3 +21,53 @@
 [01-Oct-2018 22:31:25 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 47
 [01-Oct-2018 22:31:25 UTC] PHP Stack trace:
 [01-Oct-2018 22:31:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[08-Oct-2018 22:47:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'ottermart'' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(9): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 9
+[10-Oct-2018 22:28:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%% AND catId =' at line 1' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(30): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(66): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 30
+[10-Oct-2018 22:29:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%ipad% AND catId = 1' at line 1' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(30): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(66): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 30
+[10-Oct-2018 22:29:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%ipad% AND catId = 1' at line 1' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(30): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(66): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 30
+[10-Oct-2018 22:32:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(30): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(66): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 30
+[17-Oct-2018 22:25:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php(47): displayProductInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php on line 15
+[17-Oct-2018 22:25:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php(47): displayProductInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php on line 15
+[17-Oct-2018 22:26:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4' in /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php(15): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php(55): displayProductInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/productInfo.php on line 15
+[20-Oct-2018 22:41:54 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 51
+[20-Oct-2018 22:41:54 UTC] PHP Stack trace:
+[20-Oct-2018 22:41:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
