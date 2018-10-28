@@ -29,7 +29,7 @@ function displayProductInfo(){
     foreach ($records as $record) {
         echo "<tr>";    
         echo "<td>" . $record[quantity] . "</td>";
-        echo "<td>" . $record[unitPrice] . "</td>";
+        echo "<td>$" . $record[unitPrice] . "</td>";
         echo "<td>" . $record[purchaseDate] . "</td>";
         echo "</tr>";  
     }
@@ -47,6 +47,7 @@ function displayProductInfo(){
 <html>
     <head>
         <title> Product Purchase History </title>
+        <link rel="stylesheet" href="css/styles.css" type="text/css" />
     </head>
     <body>
 

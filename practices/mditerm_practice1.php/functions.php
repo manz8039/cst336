@@ -37,6 +37,7 @@ function look($needle, $haystack) {
     }
     return false;
 }
+
 function getDates($max, $numDays) {
     $days = array();
     for ($i = 0; $i < $numDays; $i++) {

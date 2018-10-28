@@ -1494,3 +1494,4 @@
 [26-Sep-2018 15:55:47 UTC] PHP   2. makeArt() /home/ubuntu/workspace/cst336/homework/homework2/index.php:60
 [26-Sep-2018 15:55:47 UTC] PHP   3. chooseVersion() /home/ubuntu/workspace/cst336/homework/homework2/index.php:47
 [26-Sep-2018 15:55:47 UTC] PHP   4. array_push() /home/ubuntu/workspace/cst336/homework/homework2/index.php:28
+[24-Oct-2018 19:18:30 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/ubuntu/workspace/cst336/homework/homework3/index.php on line 34

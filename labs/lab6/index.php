@@ -34,14 +34,25 @@ function filterProducts() {
     
     if (!empty($product)){
         //This SQL prevents SQL INJECTION by using a named parameter
-         $sql .=  " AND productName LIKE :product";
+         $sql .=  " AND (productName LIKE :product OR productDescription LIKE :productDescription)";
          $namedParameters[':product'] = "%$product%";
+         $namedParameters[':productDescription'] = "%$product%";
     }
     
     if (!empty($_GET['category'])){
         //This SQL prevents SQL INJECTION by using a named parameter
          $sql .=  " AND catId =  :category";
           $namedParameters[':category'] = $_GET['category'] ;
+    }
+    
+    if (!empty($_GET['priceFrom'])) {
+        $from = $_GET['priceFrom'];
+        $sql .= " AND price > $from";
+    }
+    
+    if (!empty($_GET['priceTo'])) {
+        $to = $_GET['priceTo'];
+        $sql .= " AND price < $to";
     }
     
     //echo $sql;
@@ -64,13 +75,15 @@ function filterProducts() {
     $records = $stmt->fetchAll(PDO::FETCH_ASSOC);  
     //print_r($records);
     
-    
+    echo "<h2>Products Found:</h2>";
     foreach ($records as $record) {
-        
+        echo "<div class='item'>";
         echo "<a href='productInfo.php?productId=".$record['productId']."'>";
         echo $record['productName'];
-        echo "</a> ";
-        echo $record['productDescription'] . " $" .  $record['price'] .   "<br>";   
+        echo "</a> " . " $" .  $record['price'] . "<br>";
+        echo $record['productDescription'];   
+        echo "<br></div>";
+        echo "<br>";
         
     }
 
@@ -83,31 +96,34 @@ function filterProducts() {
 <html>
     <head>
         <title> Lab 6: Ottermart Product Search</title>
+        <link rel="stylesheet" href="css/styles.css" type="text/css" />
     </head>
     <body>
         
         <h1> Ottermart </h1>
         <h2> Product Search </h2>
-        
-        <form>
-            
-            Product: <input type="text" name="productName" placeholder="Product keyword" /> <br />
-            
-            Category: 
-            <select name="category">
-               <option value=""> Select one </option>  
-               <?=displayCategories()?>
-            </select>
-            
-            Price: From: <input type="text" name="priceFrom"  /> 
-             To: <input type="text" name="priceTo"  />
-            <br>
-            Order By:
-            Price <input type="radio" name="orderBy" value="productPrice">
-            Name <input type="radio" name="orderBy" value="productName">
-            <br>
-            <input type="submit" name="submit" value="Search!"/>
-        </form>
+        <div class="search">
+            <form>
+                
+                Product: <input type="text" name="productName" placeholder="Keyword" /> <br />
+                <br>
+                Category: 
+                <select name="category">
+                   <option value=""> Select one </option>  
+                   <?=displayCategories()?>
+                </select>
+                
+                Price: From: <input type="number" name="priceFrom"  /> 
+                 To: <input type="number" name="priceTo"  />
+                <br>
+                <br>
+                Order By:
+                Price <input type="radio" name="orderBy" value="productPrice">
+                Name <input type="radio" name="orderBy" value="productName">
+                <br><br>
+                <input type="submit" name="submit" value="Search!"/>
+            </form>
+        </div>
         <br>
         <hr>
         
