@@ -509,3 +509,19 @@
 [15-Oct-2018 20:47:01 UTC] PHP   3. makeItinerary() /home/ubuntu/workspace/cst336/practices/mditerm_practice1.php/functions.php:80
 [15-Oct-2018 20:47:01 UTC] PHP   4. getLocations() /home/ubuntu/workspace/cst336/practices/mditerm_practice1.php/functions.php:96
 [15-Oct-2018 20:47:01 UTC] PHP   5. array_pop() /home/ubuntu/workspace/cst336/practices/mditerm_practice1.php/functions.php:62
+[29-Oct-2018 19:36:16 UTC] PHP Fatal error:  Call to undefined function prepare() in /home/ubuntu/workspace/cst336/practices/practice7/functions.php on line 8
+[29-Oct-2018 19:36:16 UTC] PHP Stack trace:
+[29-Oct-2018 19:36:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practices/practice7/index.php:0
+[29-Oct-2018 19:36:16 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/practices/practice7/index.php:13
+[29-Oct-2018 19:48:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/practices/practice7/functions.php on line 43
+[29-Oct-2018 19:48:02 UTC] PHP Stack trace:
+[29-Oct-2018 19:48:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practices/practice7/index.php:0
+[29-Oct-2018 19:48:02 UTC] PHP   2. displayQuotes() /home/ubuntu/workspace/cst336/practices/practice7/index.php:22
+[29-Oct-2018 19:48:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/practices/practice7/functions.php on line 43
+[29-Oct-2018 19:48:41 UTC] PHP Stack trace:
+[29-Oct-2018 19:48:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practices/practice7/index.php:0
+[29-Oct-2018 19:48:41 UTC] PHP   2. displayQuotes() /home/ubuntu/workspace/cst336/practices/practice7/index.php:22
+[29-Oct-2018 19:49:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/practices/practice7/functions.php on line 43
+[29-Oct-2018 19:49:24 UTC] PHP Stack trace:
+[29-Oct-2018 19:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practices/practice7/index.php:0
+[29-Oct-2018 19:49:24 UTC] PHP   2. displayQuotes() /home/ubuntu/workspace/cst336/practices/practice7/index.php:22

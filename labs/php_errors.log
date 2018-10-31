@@ -113,3 +113,33 @@ Stack trace:
 #1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(125): filterProducts()
 #2 {main}
   thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 74
+[29-Oct-2018 21:37:47 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php on line 24
+[29-Oct-2018 21:37:47 UTC] PHP Stack trace:
+[29-Oct-2018 21:37:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:38:48 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php on line 24
+[29-Oct-2018 21:38:48 UTC] PHP Stack trace:
+[29-Oct-2018 21:38:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:48:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 21:48:37 UTC] PHP Stack trace:
+[29-Oct-2018 21:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:48:37 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
+[29-Oct-2018 21:48:42 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 21:48:42 UTC] PHP Stack trace:
+[29-Oct-2018 21:48:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:48:42 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
+[29-Oct-2018 21:55:39 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 21:55:39 UTC] PHP Stack trace:
+[29-Oct-2018 21:55:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:55:39 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
+[29-Oct-2018 21:59:06 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 21:59:06 UTC] PHP Stack trace:
+[29-Oct-2018 21:59:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:59:06 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
+[29-Oct-2018 21:59:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 21:59:11 UTC] PHP Stack trace:
+[29-Oct-2018 21:59:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 21:59:11 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
+[29-Oct-2018 22:02:06 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 22:02:06 UTC] PHP Stack trace:
+[29-Oct-2018 22:02:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:02:06 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
