@@ -10,13 +10,13 @@ function startConnection($dbname="ottermart") {
        $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
        echo $url;
        $host = $url["host"];
-       echo $host;
+       echo "host=" . $host . "<br>";
        $dbname = substr($url["path"], 1);
-       echo $dbname;
+       echo "name=" . $dbname . "<br>";
        $username = $url["user"];
-       echo $username;
+       echo "user=" . $username . "<br>";
        $password = $url["pass"];
-       echo $password;
+       echo "pass=" . $password;
    }
    
     $dbConn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
