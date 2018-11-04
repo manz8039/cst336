@@ -8,10 +8,15 @@ function startConnection($dbname="ottermart") {
     
     if  (strpos($_SERVER['HTTP_HOST'], 'herokuapp') !== false) {
        $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+       echo $url;
        $host = $url["host"];
+       echo $host;
        $dbname = substr($url["path"], 1);
+       echo $dbname;
        $username = $url["user"];
+       echo $username;
        $password = $url["pass"];
+       echo $password;
    }
    
     $dbConn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
@@ -22,3 +27,4 @@ function startConnection($dbname="ottermart") {
 
 
 ?>
+
