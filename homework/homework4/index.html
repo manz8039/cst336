@@ -1,5 +1,8 @@
 <html>
 	<head>
+		<link href="https://fonts.googleapis.com/css?family=Spicy+Rice" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		
 		<title>SPACE INVADERS</title>
 		<script type="text/javascript">
 			var gameScreen;
@@ -10,6 +13,11 @@
 			var enemies = new Array();
 			
 			var bullets;
+			var stocks = 3;
+			var dead = false;
+			var score = 0;
+			var enemiesKilled = 0;
+			var enemiesEscaped = 0;
 			
 			var gameTimer;
 
@@ -56,7 +64,7 @@
 				output = document.getElementById('output');
 
 				ship = document.createElement('IMG');
-				ship.src = 'ship.gif';
+				ship.src = 'ship1.png';
 				ship.className = 'gameObject';
 				ship.style.width = '68px';
 				ship.style.height = '68px';
@@ -74,9 +82,9 @@
 					gameScreen.appendChild(enemy);
 					placeEnemyShip(enemy);
 					enemies[i] = enemy;
-					
 				}
-	
+				
+				
 				gameTimer = setInterval(gameloop, 50);
 			}
 
@@ -116,26 +124,54 @@
 							if (hittest(b[i], enemies[j])) {
 								bullets.removeChild(b[i]);
 								explode(enemies[j]);
+								score += 100;
+								enemiesKilled += 1;
 								placeEnemyShip(enemies[j]);
 								break;
 							}
 						}
 					}
 				}
-				// output.innerHTML = b.length;
+				$("#killed").empty().append("Enemies Killed: " + enemiesKilled);
+				$("#total").empty().append("Total Score: " + score);
+				$("#escaped").empty().append("Enemies Escaped: " + enemiesEscaped);
+				
 				
 				for (var i = 0; i < enemies.length; i++) {
 					var newY = parseInt(enemies[i].style.top);
-					if (newY > GS_HEIGHT) placeEnemyShip(enemies[i]);
+					if (newY > GS_HEIGHT) {
+						placeEnemyShip(enemies[i]);
+						enemiesEscaped += 1;
+					}
 					else enemies[i].style.top = newY + enemies[i].speed + 'px';
 					
 					if (hittest(enemies[i], ship)) {
 						explode(ship);
 						explode(enemies[i]);
-						ship.style.top = '-1000px';
+						// $("#restartButton").append("<button id='restart'>Restart</button>");
+						if (dead == false)
+							stocks -= 1;
+						if (stocks == 0) {
+							$("#gameOver").empty().append("Game Over!");
+							ship.style.top = '-1000px';
+							dead = true;
+						}
+						else {
+							ship.src = "ship" +(3 - stocks + 1) + ".png";
+						}
 						placeEnemyShip(enemies[i]);
 					}
 				}
+				
+				$("#lives").empty().append("Lives: ");
+				for (var i = 0; i < stocks; i++) {
+					$("#lives").append("<img class='stocks' src='ship.png' width='30px' height='30px'>");
+				}
+				for (var i = stocks; i < 3; i++) {
+					$("#lives").append("<img class='stocks' src='shipdead.png' width='30px' height='30px'>");
+				}
+
+				
 			}
 			
 			function fire() {
@@ -216,21 +252,63 @@
 
 		</script>
 		<style>
+			body {
+				font-family: 'Spicy Rice', cursive;
+				background-color: black;
+			}
 			#gameScreen{
 				position: relative;
 				background-color: silver;
 				overflow: hidden;
+				border: 5px solid silver;
 			}
 
 			.gameObject{
 				position: absolute;
 				z-index: 1;
 			}
+			.gameInfo {
+				color: purple;
+				float: right;
+				border: 5px solid silver;
+				background-image: url("bg.jpg");
+				position: absolute;
+				top: 8px;
+				right: 270px;
+				padding: 20px;
+			}
+			#title {
+				font-size:5em;
+			}
+			#output {
+				font-size: 1em;
+			}
+			#total {
+				font-size: 1em;
+			}
+			.stocks {
+				margin-bottom: -10px;
+			}
+			#gameOver {
+				font-size: 3em;
+				color: red;
+				float: left;
+				position: absolute;
+				top: 150px;
+				right: 350px;
+			}
 
 		</style>
 	</head>
 	<body onload="init()">
 		<div id="gameScreen"></div>
-		<div id="output">degugger</div>
+		<div class="gameInfo">
+			<div id="title">Space Invaders</div>
+			<div id="escaped"></div>
+			<div id="killed"></div>
+			<div id="total"></div>
+			<div id="lives"></div>
+		</div>
+		<div id="gameOver"></div>
 	</body>
 </html>
