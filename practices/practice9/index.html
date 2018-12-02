@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <style>
+            td, th {
+                border: 2px solid black;
+                margin: -10px;
+                padding: 10px;
+            }
+            #pinataQ, #fruitQ {
+                width: 40px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Holiday Shopping</h1>
+        <table>
+            <tr>
+                <th>Product</td>
+                <th>Unit Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+            </tr>
+            <tr id='fruitCake'>
+                <td>Fruit Cake</td>
+                <td id='fruitUP'>$30</td>
+                <td>$<input id='fruitQ' type='number'value=2></td>
+                <td id='fruitT'>$60</td>
+            </tr>
+            <tr>
+                <td>Pinata (Medium size)</td>
+                <td id='pinataUP'>$20</td>
+                <td>$<input id='pinataQ' type='number'value=2></td>
+                <td id='pinataT'>$40</td>
+            </tr>
+            <tr>
+                <td>Shipping</td>
+                <td></td>
+                <td></td>
+                <td id='shippingT'>$5</td>
+            </tr>
+            <tr>
+                <td>Subtotal</td>
+                <td></td>
+                <td></td>
+                <td id='subtotalT'>$105</td>
+            </tr>
+            <tr>
+                <td>Tax (10%)</td>
+                <td></td>
+                <td></td>
+                <td id='taxT'>$10</td>
+            </tr>
+            <tr>
+                <td>Total</td>
+                <td></td>
+                <td></td>
+                <td id='totalT'>$116</td>
+            </tr>
+        </table>
+        
+        <h1>Shipping and Handling</h1>
+        
+        <p><input type='radio' id='next' name='orderMethod' value='next'>Next-day Delivery: $15.00</input></p>
+        <p><input type='radio' id='three' name='orderMethod' value='three'>Three-day Delivery: $10.00</input></p>
+        <p><input type='radio' id='regular' name='orderMethod' value='regular' checked>Regular shipping (5-8 days): $5.00</input></p>
+
+        <input type='checkbox' id='accept' name='accept' value='yes'>I accept the terms of this purchase</input>
+        <br><br>
+        <button id='confirm'>Confirm Purchase</button>
+        
+    </body>
+    <script>
+    
+        function calcTotal() {
+            var fruitT = parseInt($('#fruitT').text().substring(1));
+            var pinataT = parseInt($('#pinataT').text().substring(1));
+            var shippingT = parseInt($('#shippingT').text().substring(1));
+            var subtotal = fruitT + pinataT + shippingT;
+            $('#subtotalT').empty().append('$' + subtotal);
+            
+            var subtotalT = parseInt($('#subtotalT').text().substring(1));
+            
+            var tax = (subtotal - shippingT) * .1;
+            $('#taxT').empty().append('$' + tax);
+            var totalT = subtotalT + tax;
+            $('#totalT').empty().append('$' + totalT);
+            return total;
+            
+            // alert("Parsed Int is " + fruitT);
+        }
+    
+        $('#next').change(function() {
+           $('#shippingT').empty().append("$15");
+           calcTotal();
+        });
+        
+        $('#three').change(function() {
+           $('#shippingT').empty().append("$10");
+           calcTotal();
+        });
+        
+        $('#regular').change(function() {
+           $('#shippingT').empty().append("$5");
+           calcTotal();
+        });
+        
+        $('#fruitQ').change(function() {
+           var quantity = $('#fruitQ').val();
+           var unitPrice = parseInt($('#fruitUP').text().substring(1));
+           var total = quantity * unitPrice;
+           $('#fruitT').empty().append('$' + total);
+           calcTotal();
+        });
+        
+        $('#pinataQ').change(function() {
+           var quantity = $('#pinataQ').val();
+           var unitPrice = parseInt($('#pinataUP').text().substring(1));
+           var total = quantity * unitPrice;
+           $('#pinataT').empty().append('$' + total);
+           calcTotal();
+        });
+        
+        $('#confirm').click(function() {
+           if ($('#accept').is(':checked')) {
+               var total = parseInt($('#totalT').text().substring(1));
+               var days = "";
+               
+               var shippingSpeed = $('input[name="orderMethod"]:checked').val();
+
+               if (shippingSpeed == 'regular') days = '5-8';
+               else if (shippingSpeed == 'next') days = '1';
+               else if (shippingSpeed == 'three') days = '3';
+               
+
+               window.open('https://cemanzano-cemanzano.c9users.io/cst336/practices/practice9/result.php?days=' + days + '&total=' + total);
+           }
+           else {
+               alert("Please accept the terms and conditions of this purchase to confirm!");
+           }
+        });
+        
+    </script>
+</html>

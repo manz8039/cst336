@@ -11,6 +11,7 @@
 			var ship;
 			
 			var enemies = new Array();
+			var boost = true;
 			
 			var bullets;
 			var stocks = 3;
@@ -18,7 +19,7 @@
 			var score = 0;
 			var enemiesKilled = 0;
 			var enemiesEscaped = 0;
-			
+			delay = -1;
 			var gameTimer;
 
 			var leftArrowDown = false;
@@ -85,10 +86,23 @@
 				}
 				
 				
-				gameTimer = setInterval(gameloop, 50);
+				setInterval(gameloop, 50);
 			}
 
 			function gameloop(){
+				// if (boost) {
+				// 	debug.innerHTML = "Boost mode is activated";
+				// }
+				// else {
+				// 	debug.innerHTML = "No boost";
+				// }
+				// debug.innerHTML = event.keyCode;
+				if (delay == 0) {
+					// add restart game button
+					return;
+				}
+				if (delay > 0)
+					delay -= 1;
 				var bgY = parseInt(bg1.style.top) + BG_SPEED;
 				if (bgY > GS_HEIGHT) {
 					bg1.style.top = -1 * parseInt(bg1.style.height) + 'px';
@@ -102,16 +116,40 @@
 				else bg2.style.top = bgY + 'px';
 
 				if(leftArrowDown){
+					ship.src = "shipl.png";
 					var newX = parseInt(ship.style.left);
 					if(newX > 0) ship.style.left = newX - 20 + 'px';
 					else ship.style.left = '0px';
 				}
+				if (boost) {
+					if(leftArrowDown){
+						ship.src = "shipl.png";
+						var newX = parseInt(ship.style.left);
+						if(newX > 0) ship.style.left = newX - 20 + 'px';
+						else ship.style.left = '0px';
+					}
+				}
 
 				if(rightArrowDown){
+					ship.src = "shipr.png";
 					var newX = parseInt(ship.style.left);
 					var maxX = GS_WIDTH - parseInt(ship.style.width);
 					if(newX <  maxX) ship.style.left = newX + 20 + 'px';
 					else ship.style.left = maxX + 'px';
+				}
+				
+				if (boost) {
+					if(rightArrowDown){
+						ship.src = "shipr.png";
+						var newX = parseInt(ship.style.left);
+						var maxX = GS_WIDTH - parseInt(ship.style.width);
+						if(newX <  maxX) ship.style.left = newX + 20 + 'px';
+						else ship.style.left = maxX + 'px';
+					}
+				}
+				
+				if (!rightArrowDown && !leftArrowDown) {
+					ship.src = "ship.png";
 				}
 				
 				var b = bullets.children;
@@ -146,15 +184,16 @@
 					else enemies[i].style.top = newY + enemies[i].speed + 'px';
 					
 					if (hittest(enemies[i], ship)) {
-						explode(ship);
 						explode(enemies[i]);
-						// $("#restartButton").append("<button id='restart'>Restart</button>");
-						if (dead == false)
+						if (!dead)
 							stocks -= 1;
 						if (stocks == 0) {
 							$("#gameOver").empty().append("Game Over!");
+							explode(ship);
 							ship.style.top = '-1000px';
+							delay = 100;
 							dead = true;
+							
 						}
 						else {
 							ship.src = "ship" +(3 - stocks + 1) + ".png";
@@ -249,6 +288,11 @@
 				if(event.keyCode==37) leftArrowDown = false;
 				if(event.keyCode==39) rightArrowDown = false;
 			});
+			
+			document.addEventListener('keypress', function(event){
+				if(event.keyCode==66) boost = !boost;
+			});
+			
 
 		</script>
 		<style>
@@ -297,6 +341,9 @@
 				top: 150px;
 				right: 350px;
 			}
+			#debug {
+				color: white;
+			}
 
 		</style>
 	</head>
@@ -310,5 +357,6 @@
 			<div id="lives"></div>
 		</div>
 		<div id="gameOver"></div>
+		<div id="debug"></div>
 	</body>
 </html>
