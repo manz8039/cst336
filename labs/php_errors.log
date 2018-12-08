@@ -143,3 +143,10 @@ Stack trace:
 [29-Oct-2018 22:02:06 UTC] PHP Stack trace:
 [29-Oct-2018 22:02:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
 [29-Oct-2018 22:02:06 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:24
+[08-Dec-2018 22:21:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'c9.pets' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab10/pets.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab10/pets.php(11): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/lab10/pets.php(71): getAllPets()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab10/pets.php on line 11
+[08-Dec-2018 22:57:41 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ubuntu/workspace/cst336/labs/lab10/index.php on line 62
