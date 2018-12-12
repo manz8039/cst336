@@ -1,0 +1,6 @@
+[11-Dec-2018 02:59:56 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/FinalProject/index.php on line 1
+[11-Dec-2018 02:59:56 UTC] PHP Stack trace:
+[11-Dec-2018 02:59:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/FinalProject/index.php:0
+[11-Dec-2018 03:00:26 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/FinalProject/index.php on line 1
+[11-Dec-2018 03:00:26 UTC] PHP Stack trace:
+[11-Dec-2018 03:00:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/FinalProject/index.php:0

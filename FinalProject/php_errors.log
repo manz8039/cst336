@@ -1,0 +1,285 @@
+[12-Dec-2018 12:11:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:18:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:26:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:27:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:28:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:29:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:30:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:32:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:33:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:35:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:36:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:38
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 38
+[12-Dec-2018 12:37:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 12:37:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:40
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 40
+[12-Dec-2018 12:38:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 12:39:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 12:40:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:40
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 40
+[12-Dec-2018 12:41:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:40
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 40
+[12-Dec-2018 12:41:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 44
+[12-Dec-2018 12:41:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 44
+[12-Dec-2018 12:41:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 44
+[12-Dec-2018 12:41:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:43
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(43): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 43
+[12-Dec-2018 12:42:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:45
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 45
+[12-Dec-2018 16:28:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'where clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 42
+[12-Dec-2018 16:31:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FULL JOIN ssbm_style ON ssbm_fighter.fighterStyle = ssbm_style.styleId WHERE 1 A' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 42
+[12-Dec-2018 16:36:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterWeight' in 'where clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:42
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 42
+[12-Dec-2018 16:43:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:44:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:44:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:44:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:46:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterWeight' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:49:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:50:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:51:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:51:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:53:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterStyle' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:53:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterWeight' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 39
+[12-Dec-2018 16:57:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 35
+[12-Dec-2018 16:59:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 35
+[12-Dec-2018 17:00:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 35
+[12-Dec-2018 17:00:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f.fighterName' in 'order clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getResults.php on line 35
+[12-Dec-2018 17:36:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php on line 13
+[12-Dec-2018 17:38:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ssmb_fighter.fighterId' in 'where clause'' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php on line 13
+[12-Dec-2018 17:38:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighter.php on line 13
+[12-Dec-2018 20:47:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:47:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:47:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:47:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:47:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:47:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:48:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:49:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:49:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:51:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 20:52:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/getFighters.php on line 13
+[12-Dec-2018 21:42:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php(14): PDOStatement->fetch(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php on line 14
+[12-Dec-2018 21:44:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php(14): PDOStatement->fetch(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php on line 14
+[12-Dec-2018 21:51:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Crossing, Villager is the mayor of a town, and loves cutting trees., https://www' at line 1' in /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php:13
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/FinalProject/inc/insertFighter.php on line 13

@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    background-image: url("../img/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.content {
+    padding: 20px;
+}
+
+.navbar {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #0F0F0F;
+    width: 110%;
+    height: 60px;
+    margin: -8px;
+    /*padding: 5px;*/
+}
+
+.navbar-item {
+    float: left;
+    color: white;
+    text-decoration: none;
+    margin-top: 3px;
+    font-size: 1.7em;
+    padding: 10px 15px;
+}
+
+.navbar-logo {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-top: 4px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:hover {
+    background-color: white;
+    color: #0F0F0F;
+}
+
+#keyword {
+    height: 40px;
+    width: 500px;
+    font-size: 1em;
+}
+
+.search-filter {
+    position: absolute;
+    left: -9999px;
+}
+
+.filter-group {
+    
+}
+
+.filter-label {
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+    margin-right: -5px;
+    background-color: #5b5e63;
+    color: white;
+    border: none;
+}
+
+#ascend-button:checked ~ #ascend-label {
+    background-color: #e59c00;
+}
+
+#descend-button:checked ~ #descend-label {
+    background-color: #e59c00;
+}
+
+#style-button:checked ~ #style-label {
+    background-color: #e59c00;
+}
+
+#weight-button:checked ~ #weight-label {
+    background-color: #e59c00;
+}
+
+#name-button:checked ~ #name-label {
+    background-color: #e59c00;
+}
+
+.select-option {
+    display: inline;
+    height: 40px;
+    width: 180px;
+    -webkit-appearance: none;
+    background-color: #e59c00;
+    border-radius: 0px;
+    font-size: 1em;
+    margin-top: -12px;
+    padding-left: 15px;
+    margin-right: 13px;
+    border: none;
+    color: white;
+}
+
+#search-button {
+    height: 40px;
+    width: 105px;
+    margin-top: -20px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+}
+
+.fighter {
+    height: 300px;
+    width: 250px;
+    margin: 50px;
+    display: inline-block;
+    padding-bottom: 100px;
+}
+
+.fighter-image {
+    float: left;
+}
+
+#passfield, #userfield {
+    height: 40px;
+    width: 500px;
+    font-size: 1em;
+}
+
+#access-button {
+    height: 40px;
+    width: 105px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+}
+
+#logout-button {
+    height: 40px;
+    width: 105px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+    margin-right: 10px;
+}
+
+#add-button {
+    height: 40px;
+    width: 105px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+    margin-right: 10px;
+
+}
+
+#aggregate-button {
+    height: 40px;
+    width: 105px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+    margin-right: 10px;
+
+}
+
+#insert-button {
+    height: 40px;
+    width: 105px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+    margin-right: 10px;
+
+}
+
+#edit-button {
+    height: 40px;
+    width: 105px;
+    background-color: #e59c00;
+    color: white;
+    border: none;
+    font-size: 1em;
+    margin-right: 10px;
+
+}
+
+#addPage {
+    margin-top: 10px;
+    width: 40%;
+    border: 5px solid white;
+    padding: 5px;
+}
+
+#aggregatePage {
+    margin-top: 10px;
+    width: 40%;
+    border: 5px solid white;
+    padding: 5px;
+}

@@ -57,7 +57,6 @@ function getAllPets(){
 	              
 	              $('#petModal').modal("show");
 	              $.ajax({
-
                     type: "GET",
                     url: "api/getPetInfo.php",
                     dataType: "json",
